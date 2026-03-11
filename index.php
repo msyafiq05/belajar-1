@@ -13,5 +13,6 @@
 
 <?php
 echo "Hello, World!";
-
+$name = "Syafiq";
+echo "My name is " . $name;
 ?>
